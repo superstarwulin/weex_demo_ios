@@ -1,0 +1,15 @@
+#过滤文件
+*.xcuserstate
+*.xcbkptlist
+*.pbxuser
+*.xccheckout
+#*.xcscheme
+Podfile.lock
+*.xcworkspace
+*.xcuserdatad
+
+#过滤文件夹
+WeexDemo.xcworkspace/
+Pods/
+WeexDemo.xcodeproj/xcuserdata/
+WeexDemo.xcodeproj/project.xcworkspace/
